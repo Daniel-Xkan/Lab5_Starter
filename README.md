@@ -1,1 +1,3 @@
-# Lab 5 - Starter
+# Group 23 Suus 
+
+## contributions: Xuchen Kan, Samir Rashid
