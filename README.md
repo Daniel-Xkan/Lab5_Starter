@@ -1,3 +1,6 @@
 # Group 23 Suus 
 
-## contributions: Xuchen Kan, Samir Rashid
+## contributors: Xuchen Kan, Samir Rashid
+
+- expose: https://daniel-xkan.github.io/Lab5_Starter/expose.html
+- explore: https://daniel-xkan.github.io/Lab5_Starter/explore.html
