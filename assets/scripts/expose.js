@@ -35,6 +35,7 @@ function init() {
       hornImg.src = "assets/images/party-horn.svg"
       h2.textContent = "Expose - Party Horn"
     }
+    audio.volume = vol.value/100
   }
 
   // set Volume and volumn picture helper
@@ -56,7 +57,7 @@ function init() {
   }
 
   //play sound when click the btn
-  playSound.onclick = function(){
+  playSound.onclick = function() {
     audio.play();
     if (partyHorn == true){
       jsConfetti.addConfetti();
@@ -78,8 +79,6 @@ function init() {
   // volumn event listener, set valumn 
   vol.addEventListener('change', (event) => {
     setVolume(event.target.value)
-
-
   });
 
 }

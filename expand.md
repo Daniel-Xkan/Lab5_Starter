@@ -1,0 +1,8 @@
+# Expand
+
+1. It is important to put thought into your IDs & Classes when it comes to technology intersections because they can be used to target specific elements with CSS and JS. They should be descriptive so it is less confusing with large codebases.
+2. Data attributes are attributes that can be used to store data on HTML elements. They are useful because they can be used to store data that is not meant to be displayed on the page. Data attributes can be accessed using the dataset property. The implications of using data attributes when it comes to things like microdata is that they can be used to store data that can be used by search engines to provide more relevant search results.
+3. A DOM fragment is a piece of HTML that is not contained in the main document. DOM fragments are powerful because they can be used to create a document without having to load the entire document.
+4. The point of a virtual DOM is to create a representation of the HTML DOM in memory. This allows for changes to be made to the DOM without having to make changes to the actual DOM. The advantages of this is that it can make page updates faster. The disadvantages is that it can use more memory.
+5. Because it is not allowed for some reason.
+6. The difference between using addEventListener and something like onClick is that addEventListener will add an event listener to an element, and onClick will only fire the event when the element is clicked. The advantages of using addEventListener is that it can be used to add multiple event listeners to an element, and the disadvantages is that it is not supported by all browsers.
